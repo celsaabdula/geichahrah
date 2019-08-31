@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vioheulah.pjcollins.org/sitemap.xml
